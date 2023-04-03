@@ -10,7 +10,7 @@ Este projeto foi feito no curso Responsive Web Design do freeCodeCamp e consiste
 
 ## Screenshot
 
-![Screenshot do projeto Photo Gallery](./screenshot.png)
+![Screenshot do projeto Photo Gallery](./screenshot.PNG)
 
 ## Funcionalidades
 
@@ -21,7 +21,7 @@ Este projeto foi feito no curso Responsive Web Design do freeCodeCamp e consiste
 
 ## Autor
 
-**Nome:** Lucas Bomfim Fernandes
-**E-mail:** lucadez01@gmail.com
-**Linkedin:** https://www.linkedin.com/in/lucasbomfim10/
+- Nome: Lucas Bomfim Fernandes
+- Email: lucadez01@gmail.com
+- LinkedIn: https://www.linkedin.com/in/lucasbomfim10/
 
